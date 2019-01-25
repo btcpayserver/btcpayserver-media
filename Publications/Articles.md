@@ -1,6 +1,6 @@
 This list includes articles from media outlets and blogs. For articles and guides written by BTCPay Contributors, check our blog. If you wrote an article about BTCPay Server, or found one that's not listed, feel free to add it to the list.
 
-* 2019/Jan/25- [ Nicolas Dorier: Bitcoin concede la soberanía financiera que ninguna otra moneda ofrece](https://www.criptonoticias.com/entrevistas/nicolas-dorier-bitcoin-soberania-financiera-btcpay/) - criptonoticias.com
+* 2019/Jan/25- [Nicolas Dorier: Bitcoin concede la soberanía financiera que ninguna otra moneda ofrece](https://www.criptonoticias.com/entrevistas/nicolas-dorier-bitcoin-soberania-financiera-btcpay/) - criptonoticias.com
 * 2019/Jan/22 - [The definitive guide to BTCPay Server pt. 3 Versatility](https://medium.com/@rickytheghost1981/the-definitive-guide-to-btcpay-server-pt-3-versatility-c33aec10c0bc) - coincache.net
 * 2019/Jan/21 - [The definitive guide to BTCPay Server pt. 2](https://medium.com/@rickytheghost1981/the-definitive-guide-to-btcpay-server-pt-2-d78c2679faf) - coincache.net
 * 2019/Jan/20 - [Buying a Stranger a Beer Over the Internet via the Lightning Network](https://www.cryptoglobe.com/latest/2019/01/buying-a-stranger-a-beer-over-the-internet-via-the-lightning-network/)
@@ -12,7 +12,7 @@ This list includes articles from media outlets and blogs. For articles and guide
 * 2019/Jan/11 - [This New Crowdfunding App Won’t Ban Racist, Scammy, or Political Campaign](https://breakermag.com/this-new-crowdfunding-app-wont-ban-racist-scammy-or-political-campaigns/) - breakermag.com
 * 2019/Jan/10 - [BTCPay Server Powers Kickstarter Alternative Bitcoin Crowdfunding](https://www.coindaily.co/btcpay-server-powers-kickstarter-alternative-bitcoin-crowdfunding%E2%80%8A/) - coindaily.com
 * 2019/Jan/10 - [Gab Turns to BtcPayServer After Square Ban](https://www.cryptoglobe.com/latest/2019/01/gab-turns-to-btcpayserver-after-square-ban/) - cryptoglobe.com
-* 2019/Jan/09 - [Alt-Right Twitter Gab Spoke Too Soon: Square Account Now Deactivated](Alt-Right Twitter Gab Spoke Too Soon: Square Account Now Deactivated) - ccn.com
+* 2019/Jan/09 - [Alt-Right Twitter Gab Spoke Too Soon: Square Account Now Deactivated](https://www.ccn.com/alt-right-twitter-gab-spoke-too-soon-square-account-now-deactivated/) - ccn.com
 * 2019/Jan/08 - [Coinbase prohibits Gab social network from trading on its platform for the second time](https://www.crypto-economy.net/en/coinbase-prohibits-gab-social-network-from-trading-on-its-platform-for-the-second-time/) - crypto-economy.net
 * 2019/Jan/02 - [New LibrePatron Crowdfunding Platform to Use BTCPay Bitcoin Payment Service to Rival Patreon](https://bitcoinexchangeguide.com/new-librepatron-crowdfunding-platform-to-use-btcpay-bitcoin-payment-service-to-rival-patreon/) - bitcoinexchangeguide.com
 * 2018/Dec/31 - [LibrePatron Uses BTCPay To Bypass ‘Censorship-Heavy’ Patreon With Bitcoin](https://bitcoinist.com/librepatron-btcpay-patreon-bitcoin/)
@@ -34,7 +34,7 @@ This list includes articles from media outlets and blogs. For articles and guide
 * 2018/Oct/23 - [A Year After Launch, BTCPay Has Grown Larger Than Its Creator Expected](https://bitcoinmagazine.com/articles/year-after-launch-btcpay-has-grown-larger-its-creator-expected/) - bitcoinmagazine.com
 * 2018/Oct/03 - [BTCPay Server To Install Within Minutes Now, Thanks To Its New Interface](https://billionaire365.com/2018/10/03/btcpay-server-to-install-within-minutes-now-thanks-to-its-new-interface/) - billionaire365.com
 * 2018/Sep/08 - [Running my own BTCPay server: first impressions](https://www.sosthene.net/btcpay-bilan/) - Sosthene.net
-* 2018/May/25 - [CheapAir Ditches BitPay For Open-Source Bitcoin Payments](CheapAir Ditches BitPay For Open-Source Bitcoin Payments) - bitcoinist.com
+* 2018/May/25 - [CheapAir Ditches BitPay For Open-Source Bitcoin Payments](https://www.ccn.com/alt-right-twitter-gab-spoke-too-soon-square-account-now-deactivated/) - bitcoinist.com
 * 2018/Jan/10 - [BTCPay and CoinCards added support for Litecoin](https://hype.codes/btcpay-and-coincards-added-support-litecoin) - hype.codes
 * 2017/Dec/17 - [BTCPay is a Better (and Cheaper) BitPay, Says Core Developer Nicolas Dorier](https://bitcoinist.com/btcpay-core-developer-better-bitpay/) - Bitcoinist.com
 * 2017/Oct/16 - [What  is BTCPay Server](http://cryptotimes.org/bitcoin/what-is-btcpay-server/) - Cryptotimes.org
