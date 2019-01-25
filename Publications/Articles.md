@@ -14,6 +14,7 @@ This list includes articles from media outlets and blogs. For articles and guide
 * 2019/Jan/10 - [Gab Turns to BtcPayServer After Square Ban](https://www.cryptoglobe.com/latest/2019/01/gab-turns-to-btcpayserver-after-square-ban/) - cryptoglobe.com
 * 2019/Jan/09 - [Alt-Right Twitter Gab Spoke Too Soon: Square Account Now Deactivated](https://www.ccn.com/alt-right-twitter-gab-spoke-too-soon-square-account-now-deactivated/) - ccn.com
 * 2019/Jan/08 - [Coinbase prohibits Gab social network from trading on its platform for the second time](https://www.crypto-economy.net/en/coinbase-prohibits-gab-social-network-from-trading-on-its-platform-for-the-second-time/) - crypto-economy.net
+* 2019/Jan/04 [Rejected by Coinbase and BitPay, Gab Finally Lands a Crypto Payment Processor](https://breakermag.com/rejected-by-coinbase-and-bitpay-gab-finally-lands-a-crypto-payment-processor/) - breakermag.com
 * 2019/Jan/02 - [New LibrePatron Crowdfunding Platform to Use BTCPay Bitcoin Payment Service to Rival Patreon](https://bitcoinexchangeguide.com/new-librepatron-crowdfunding-platform-to-use-btcpay-bitcoin-payment-service-to-rival-patreon/) - bitcoinexchangeguide.com
 * 2018/Dec/31 - [LibrePatron Uses BTCPay To Bypass ‘Censorship-Heavy’ Patreon With Bitcoin](https://bitcoinist.com/librepatron-btcpay-patreon-bitcoin/)
 * 2018/Dec/17 - [BTCPayServer Expands Lightning Operability, Integrates Spark Wallet](https://bitcoinmagazine.com/articles/btcpayserver-expands-lightning-operability-integrates-spark-wallet/)
@@ -36,5 +37,6 @@ This list includes articles from media outlets and blogs. For articles and guide
 * 2018/Sep/08 - [Running my own BTCPay server: first impressions](https://www.sosthene.net/btcpay-bilan/) - Sosthene.net
 * 2018/May/25 - [CheapAir Ditches BitPay For Open-Source Bitcoin Payments](https://www.ccn.com/alt-right-twitter-gab-spoke-too-soon-square-account-now-deactivated/) - bitcoinist.com
 * 2018/Jan/10 - [BTCPay and CoinCards added support for Litecoin](https://hype.codes/btcpay-and-coincards-added-support-litecoin) - hype.codes
+* 2018/Jan/09 - [Litecoin Price Forecast: BTCPay & CoinCards Initiate Support for LTC](https://www.profitconfidential.com/cryptocurrency/litecoin/ltc-price-forecast-btcpay-coincards/) - profitconfidential.com
 * 2017/Dec/17 - [BTCPay is a Better (and Cheaper) BitPay, Says Core Developer Nicolas Dorier](https://bitcoinist.com/btcpay-core-developer-better-bitpay/) - Bitcoinist.com
-* 2017/Oct/16 - [What  is BTCPay Server](http://cryptotimes.org/bitcoin/what-is-btcpay-server/) - Cryptotimes.org
+* 2017/Oct/16 - [What  is BTCPay Server](https://themerkle.com/what-is-btcpay-server/) - themerkele.com
