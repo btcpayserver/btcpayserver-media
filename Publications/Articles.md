@@ -5,6 +5,7 @@ This list includes articles from media outlets and blogs. For articles and guide
 * 2019/Jan/21 - [The definitive guide to BTCPay Server pt. 2](https://medium.com/@rickytheghost1981/the-definitive-guide-to-btcpay-server-pt-2-d78c2679faf) - coincache.net
 * 2019/Jan/20 - [Buying a Stranger a Beer Over the Internet via the Lightning Network](https://www.cryptoglobe.com/latest/2019/01/buying-a-stranger-a-beer-over-the-internet-via-the-lightning-network/) - cryptoglobe.com
 * 2019/Jan/20 - [How This Decentralized Alternative to BitPay Is Driving Merchant Adoption of Bitcoin](https://www.cryptoglobe.com/latest/2019/01/how-this-decentralized-alternative-to-bitpay-is-driving-merchant-adoption-of-bitcoin/) - cryptoglobe.com
+* 2019/Jan/20- [SLP48 Nicolas Dorier and BTCPay Server – Self-hosted Bitcoin and lightning payments](https://stephanlivera.com/episode/48)
 * 2019/Jan/20 - [The definitive guide to BTCPay Server pt. 1 Interview with Pavlenex, founder of Bitcoinshirt.co](https://www.coincache.net/2019/01/20/the-definitive-guide-to-btcpay-server-pt-1-interview-with-pavlenex-founder-of-bitcoinshirt-co/?v=f5b15f58caba) - coincache.net
 * 2019/Jan/12 - [Bitcoin Crowdfunding: Zonder Patreon en Kickstarter](https://www.blockchainstories.com/2019/01/12/bitcoin-crowdfunding-zonder-patreon-en-kickstarter/) - blockchainstories.com
 * 2019/Jan/12 - [Bitcoin İle Ödemelere “Atom” ve “Şimşek” Dopingi Geliyor](https://kriptokoin.com/bitcoin-ile-odemelere-atom-simsek-dopingi-geliyor/) - kriptokoin.com
