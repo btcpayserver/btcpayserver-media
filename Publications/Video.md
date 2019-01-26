@@ -1,4 +1,4 @@
-This page contains chronologically sorted videosfeaturing BTCPay developers on meetups and conferences, as well as independent content creators showcasing the software. If you find a video that's not on the list, feel free to submit a pull request and we will add it.
+This page contains chronologically sorted videos featuring BTCPay developers on meetups and conferences, as well as independent content creators showcasing the software. If you find a video that's not on the list, feel free to submit a pull request and we will add it.
 
 ## Interviews
 * 2018/Aug/13 - [Deciphered # 2 - BTCPay Server with Nicolas Dorier](https://www.youtube.com/watch?v=RnixGcubT5E) - Crypto Cast Network
