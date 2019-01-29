@@ -4,6 +4,7 @@ This page contains chronologically sorted videos featuring BTCPay developers on 
 * 2018/Aug/13 - [Deciphered # 2 - BTCPay Server with Nicolas Dorier](https://www.youtube.com/watch?v=RnixGcubT5E) - Crypto Cast Network
 * 2018/Oct/25 - [BTCPayServer, with Nicolas and Michel - Open Source Everything](https://www.youtube.com/watch?v=k_FmB9ggtek) - World Crypto Network
 * 2018/Oct/23 - [Accepting Bitcoin for your Business: BTCPay Q&A](https://www.youtube.com/watch?v=xhNU_qI-Y7w) - DCTRL Vancouver
+* 2018/May/06 - [The Bitcoin News Show #78 - BTCPayServer explained, Goldman Sachs, Draper - 250k/BTC by 2022](https://www.youtube.com/watch?v=VMcNWyUen2Y) - World Crypto Network
 * 2018/Jan/26 - [Interview de Nicolas Dorier - French](https://www.youtube.com/watch?v=qTZFxGpLVlo) - Blockchain Révolution
 * 2017/Dec/27 - [BTCPay is Better and Cheaper than BitPay - Options Abound!](https://www.youtube.com/watch?v=0abH-Vdza4c) - Decentralized TV
 
