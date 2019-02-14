@@ -1,6 +1,8 @@
 This page contains chronologically sorted videos featuring BTCPay developers on meetups and conferences, as well as independent content creators showcasing the software. If you find a video that's not on the list, feel free to submit a pull request and we will add it.
 
 ## Interviews
+* 2019/Feb/10 - [Making of BTCPay video live stream - WebWorthy, Kukks, Pavlenex, Britkelly, RockstarDev](https://www.twitch.tv/videos/378443076) - WebWor
+* 2019/Jan/31 - [Making of BTCPay video live stream - Britkelly, RockstarDev](https://www.twitch.tv/videos/374780643) - WebWort Twitch
 * 2018/Aug/13 - [Deciphered # 2 - BTCPay Server with Nicolas Dorier](https://www.youtube.com/watch?v=RnixGcubT5E) - Crypto Cast Network
 * 2018/Oct/25 - [BTCPayServer, with Nicolas and Michel - Open Source Everything](https://www.youtube.com/watch?v=k_FmB9ggtek) - World Crypto Network
 * 2018/Oct/23 - [Accepting Bitcoin for your Business: BTCPay Q&A](https://www.youtube.com/watch?v=xhNU_qI-Y7w) - DCTRL Vancouver
