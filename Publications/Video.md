@@ -11,6 +11,7 @@ This page contains chronologically sorted videos featuring BTCPay developers on 
 * 2017/Dec/27 - [BTCPay is Better and Cheaper than BitPay - Options Abound!](https://www.youtube.com/watch?v=0abH-Vdza4c) - Decentralized TV
 
 ## Conferences and meetups
+* 2019/Mar/04 - [BTCPayServer 5-hour Hackday Justin Moon and R0ckstardev](https://www.youtube.com/watch?v=yiZa57CiKd0) - Chicago
 * 2019/Feb/11 - [Nicolas Dorier - BTCPay Server Deployment](https://www.youtube.com/watch?v=aKG2f3SPVMg) - London Bitcoin Devs Meetup
 * 2019/Feb/07 - [BTCPay Server Architecture: How to pick your trust level](https://vimeo.com/album/5765075/video/316630434) - Advancing Bitcoin conference
 * 2019/Feb/06 - [BTCPay Server Workshop](https://www.youtube.com/watch?v=Z6lQs9AslhE) - BOB Meetup Chicago
