@@ -1,5 +1,6 @@
-This list includes articles from media outlets and blogs. For articles and guides written by BTCPay Contributors, check our blog. If you wrote an article about BTCPay Server, or found one that's not listed, feel free to add it to the list.
+This list includes articles from media outlets and blogs. For articles and guides written by BTCPay Contributors, [check our blog](https://blog.btcpayserver.org). If you wrote an article about BTCPay Server, or found one that's not listed, feel free to add it to the list.
 
+* 2019/Mar/17 - [What is BTCPay Server? Free & Open Source Bitcoin Payment Processor](https://blockonomi.com/btcpay-bitcoin-payment-processor/)
 * 2019/Feb/26 - [Decentralized Payment Processor BTCPay Adds New Invoicing Options](https://bitcoinmagazine.com/articles/decentralized-payment-processor-btcpay-adds-new-invoicing-options/) - bitcoinmagazine.com
 * 2019/Jan/26 - [Buy a Beer with Bitcoin on WordPress: BTCPay Showcases Use-Value of the Lightning Network](https://beincrypto.com/buy-a-beer-with-bitcoin-on-wordpress-btcpay-showcases-use-value-of-the-lightning-network/) - beincrypto.com
 * 2019/Jan/25- [Nicolas Dorier: Bitcoin concede la soberanía financiera que ninguna otra moneda ofrece](https://www.criptonoticias.com/entrevistas/nicolas-dorier-bitcoin-soberania-financiera-btcpay/) - criptonoticias.com
