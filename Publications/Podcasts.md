@@ -1,5 +1,6 @@
 This list contains podcasts pertaining to BTCPay.
 
+* 2019/Apr/02 - [Founder of BTCPay Nicolas Dorier on merchant adoption](https://www.bitcoin.kn/2019/4/nicolas-dorier-merchant-adoption/) - The Bitcoin Knowledge Podcast
 * 2019/Jan/16 - [SLP48 Nicolas Dorier and BTCPayServer - self hosted Bitcoin and Lightning payments](https://stephanlivera.com/episode/48) Stephan Livera Podcast
 * 2018/Dec/27 - [Jeff Vandrew on Bitcoin retirement acccounts and Quickbooks integration - Episode 33](https://bottomshelfbitcoin.com/jeff-vandrew-on-bitcoin-retirement-acccounts-and-quickbooks-integration-ep-33/) - BottomShelf Bitcoin
 * 2018/Oct/2 - [Noded 0.27.0 with Vortex](https://noded.org/podcast/noded-0270-with-vortex/) - nodded.org
