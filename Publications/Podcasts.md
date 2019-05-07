@@ -1,5 +1,6 @@
 This list contains podcasts pertaining to BTCPay.
 
+* 2019/May/01 - [Contributing to Open Source and BTCPay with Britt Kelly](http://thelitepodcast.libsyn.com/contributing-to-open-source-and-btcpay-with-britt-kelly) - The Lite Podcast
 * 2019/Apr/02 - [Founder of BTCPay Nicolas Dorier on merchant adoption](https://www.bitcoin.kn/2019/4/nicolas-dorier-merchant-adoption/) - The Bitcoin Knowledge Podcast
 * 2019/Jan/16 - [SLP48 Nicolas Dorier and BTCPayServer - self hosted Bitcoin and Lightning payments](https://stephanlivera.com/episode/48) Stephan Livera Podcast
 * 2018/Dec/27 - [Jeff Vandrew on Bitcoin retirement acccounts and Quickbooks integration - Episode 33](https://bottomshelfbitcoin.com/jeff-vandrew-on-bitcoin-retirement-acccounts-and-quickbooks-integration-ep-33/) - BottomShelf Bitcoin
