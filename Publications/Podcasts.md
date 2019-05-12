@@ -1,5 +1,6 @@
 This list contains podcasts pertaining to BTCPay.
 
+* 2019/May/12 - [Contrarian Island #8: @pavlenex - BTCPay Server](https://podcasts.apple.com/us/podcast/contrarian-island-8-pavlenex-btcpay-server/id1455370013?i=1000437815537)
 * 2019/May/01 - [Contributing to Open Source and BTCPay with Britt Kelly](http://thelitepodcast.libsyn.com/contributing-to-open-source-and-btcpay-with-britt-kelly) - The Lite Podcast
 * 2019/Apr/02 - [Founder of BTCPay Nicolas Dorier on merchant adoption](https://www.bitcoin.kn/2019/4/nicolas-dorier-merchant-adoption/) - The Bitcoin Knowledge Podcast
 * 2019/Jan/16 - [SLP48 Nicolas Dorier and BTCPayServer - self hosted Bitcoin and Lightning payments](https://stephanlivera.com/episode/48) Stephan Livera Podcast
