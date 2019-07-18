@@ -1,5 +1,6 @@
 This list contains podcasts pertaining to BTCPay.
-* 2019/Jul/15 - [Rockstar Dev – BTCPayServer Tor crowdfunding, and Rockstarism](https://stephanlivera.com/episode/89/) - Stephan Livera Podcast
+* 2019/Jul/18 - [Pavlenex -SLP90 Pavlenex – BTCPayServer](https://stephanlivera.com/episode/90/) - https://stephanlivera.com/episode/90/
+* 2019/Jul/15 - [Rockstar Dev – BTCPayServer Tor crowdfunding, and Rockstarism](https://stephanlivera.com/episode/89/) - ≈
 * 2019/Jun/07 - [Nicolas Dorier: Ethics of Money, BTCPay Server, Neutrino, Future of Bitcoin ](https://citizenbitcoin.world/episodes/nicolas-dorier-ethics-of-money-btcpay-s) - CitizenBitcoin
 * 2019/May/12 - [Contrarian Island #8: @pavlenex - BTCPay Server](https://podcasts.apple.com/us/podcast/contrarian-island-8-pavlenex-btcpay-server/id1455370013?i=1000437815537)
 * 2019/May/01 - [Contributing to Open Source and BTCPay with Britt Kelly](http://thelitepodcast.libsyn.com/contributing-to-open-source-and-btcpay-with-britt-kelly) - The Lite Podcast
