@@ -1,4 +1,5 @@
 This list contains podcasts pertaining to BTCPay.
+* 2019/Jul/18 - [SLP91 Kukks – BTCPayServer architecture and BTC transmuter](https://stephanlivera.com/episode/91/) - Stephan Livera
 * 2019/Jul/18 - [Pavlenex -SLP90 Pavlenex – BTCPayServer](https://stephanlivera.com/episode/90/) - Stephan Livera
 * 2019/Jul/15 - [Rockstar Dev – BTCPayServer Tor crowdfunding, and Rockstarism](https://stephanlivera.com/episode/89/) - Stephan Livera
 * 2019/Jun/07 - [Nicolas Dorier: Ethics of Money, BTCPay Server, Neutrino, Future of Bitcoin ](https://citizenbitcoin.world/episodes/nicolas-dorier-ethics-of-money-btcpay-s) - CitizenBitcoin
