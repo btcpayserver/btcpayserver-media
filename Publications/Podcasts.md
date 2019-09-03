@@ -1,5 +1,6 @@
 This list contains podcasts pertaining to BTCPay.
 
+* 2019/Sep/02 - [004 Freedom Tool To Accept Payments with Pavlenex](https://gunsnbitcoin.com/podcast/ep4/) - Guns N' Bitcoin
 * 2019/Jul/25 - [SLP92 Brit Kelly – BTCPayServer documentation, translation & Newbie tips](https://stephanlivera.com/episode/92/) - Stephan Livera
 * 2019/Jul/21 - [SLP91 Kukks – BTCPayServer architecture and BTC transmuter](https://stephanlivera.com/episode/91/) - Stephan Livera
 * 2019/Jul/18 - [SLP90 Pavlenex – BTCPayServer For Merchants](https://stephanlivera.com/episode/90/) - Stephan Livera
