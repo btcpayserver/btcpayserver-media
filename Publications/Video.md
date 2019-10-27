@@ -1,6 +1,7 @@
 This page contains chronologically sorted videos featuring BTCPay developers on meetups and conferences, as well as independent content creators showcasing the software. If you find a video that's not on the list, feel free to submit a pull request and we will add it.
 
 ## Interviews
+* 2019/Oct/10 - [WCN - LNConf 2019 Day 1 - Pavlenex and Kukks](https://youtu.be/775vmOKxwSY?t=8042)
 * 2019/Apr/27 - [BitKnow Interview - Nicolas Dorier - BTCPay Server](https://www.youtube.com/watch?v=_s0fCoq5_Mo)
 * 2019/Apr/19 - [Andrew Camilleri BTC Pay Server developer on adoption, merchants and p2p](https://youtu.be/NeOCPkSk5iQ)
 * 2019/Apr/09 - [Interview with the BTCPAY-Contributor Pavlenex](https://www.youtube.com/watch?v=BtQcC6Xgh-4) - Keyvan Davani
@@ -14,6 +15,7 @@ This page contains chronologically sorted videos featuring BTCPay developers on 
 * 2017/Dec/27 - [BTCPay is Better and Cheaper than BitPay - Options Abound!](https://www.youtube.com/watch?v=0abH-Vdza4c) - Decentralized TV
 
 ## Conferences and meetups
+* 2019/Oct/11 - [Brit Kelly LNConf 2019 Merchant/Payments Panel](https://youtu.be/HtU7ZlxvLL4?t=14916)
 * 2019/Sep/16 - [Kukks BTCPay Day Riga 2019 - BTCPay Transmuter and the new API](https://youtu.be/puZqcHsg4oY)
 * 2019/Sep/16 - [Pavlenex BTCPay Day Riga 2019 - Introduction to BTCPay](https://www.facebook.com/kriptomedia/videos/vl.418099655731067/2898112140218815/)
 * 2019/Sep/16 - [Nicolas Dorier BTCPay Day Riga 2019](https://www.facebook.com/kriptomedia/videos/vl.418099655731067/2982575125300014)
