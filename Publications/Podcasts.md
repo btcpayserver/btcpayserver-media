@@ -1,5 +1,6 @@
 This list contains podcasts pertaining to BTCPay.
 
+* 2019/Dec/18 - [Weekly Bits #9: The Open-Source Mission of BTCPay Server](bitcoinmagazine.btc.libsynpro.com/weekly-bits-9-the-open-source-mission-of-btcpay-server) - Bitcoin Magazine Podcast
 * 2019/Oct/10 - [Nicolas Dorier: The Bitcoin Podcast #277](https://the-bitcoin-podcast-network.simplecast.com/episodes/the-bitcoin-podcast-277-nicolas-dorier-btcpay-server) - 
 The Bitcoin Podcast
 * 2019/Oct/01 - [Pavlenex: BTCPay Server Contributor](https://anchor.fm/john-vallis/episodes/Pavlenex-BTCPay-Server-Contributor-e5ntoo) - Bitcoin Rapid Fire
