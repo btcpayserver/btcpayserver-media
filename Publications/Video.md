@@ -16,6 +16,7 @@ This page contains chronologically sorted videos featuring BTCPay developers on 
 * 2017/Dec/27 - [BTCPay is Better and Cheaper than BitPay - Options Abound!](https://www.youtube.com/watch?v=0abH-Vdza4c) - Decentralized TV
 
 ## Conferences and meetups
+* 2019/Dec/10 - [BTCPayServer as Your Lightning Node](https://youtu.be/rFA9JBfHHEg) - Boltathon 2
 * 2019/Oct/11 - [Brit Kelly LNConf 2019 Merchant/Payments Panel](https://youtu.be/HtU7ZlxvLL4?t=14916)
 * 2019/Sep/16 - [Kukks BTCPay Day Riga 2019 - BTCPay Transmuter and the new API](https://youtu.be/puZqcHsg4oY)
 * 2019/Sep/16 - [Pavlenex BTCPay Day Riga 2019 - Introduction to BTCPay](https://www.facebook.com/kriptomedia/videos/vl.418099655731067/2898112140218815/)
