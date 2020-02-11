@@ -1,5 +1,6 @@
 This list contains podcasts pertaining to BTCPay.
 
+* 2020/Feb/11 - [LNJ023 - Rockstardev talks Strike and Entropy](https://blog.sicksubroutine.com/lightning-junkies-episode-lnj023-rockstardev-talks-strike-and-entropy/) - Lightning Junkies Podcast
 * 2019/Dec/18 - [Weekly Bits #9: The Open-Source Mission of BTCPay Server](bitcoinmagazine.btc.libsynpro.com/weekly-bits-9-the-open-source-mission-of-btcpay-server) - Bitcoin Magazine Podcast
 * 2019/Oct/10 - [Nicolas Dorier: The Bitcoin Podcast #277](https://the-bitcoin-podcast-network.simplecast.com/episodes/the-bitcoin-podcast-277-nicolas-dorier-btcpay-server) - 
 The Bitcoin Podcast
