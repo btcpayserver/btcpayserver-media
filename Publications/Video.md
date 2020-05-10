@@ -1,6 +1,7 @@
 This page contains chronologically sorted videos featuring BTCPay developers on meetups and conferences, as well as independent content creators showcasing the software. If you find a video that's not on the list, feel free to submit a pull request and we will add it.
 
 ## Interviews
+* 2020/May/10 - [SLP172 Nicolas Dorier & Kukks - P2EP Comes To BTCPay Server](https://youtu.be/Sd_0Ybqz6B0)
 * 2019/Sep/03 - [WCN - BitBrum in Birmingham - Esky](https://youtu.be/1TRzSJOM19U?t=1961)
 * 2019/Oct/10 - [WCN - LNConf 2019 Day 1 - Pavlenex and Kukks](https://youtu.be/775vmOKxwSY?t=8042)
 * 2019/Apr/27 - [BitKnow Interview - Nicolas Dorier - BTCPay Server](https://www.youtube.com/watch?v=_s0fCoq5_Mo)
