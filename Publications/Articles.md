@@ -1,6 +1,7 @@
 This list includes articles from media outlets and blogs. For articles and guides written by BTCPay Contributors, [check our blog](https://blog.btcpayserver.org). If you wrote an article about BTCPay Server, or found one that's not listed, feel free to add it to the list.
 
 - 2019/Dec/16 - [BTCPay Server Is Bitcoin’s Open-Source Unicorn](https://bitcoinmagazine.com/articles/btcpay-server-is-bitcoins-open-source-unicorn) - Bitcoin Magazine
+- 2019/Dec/15 - [BTCPay Server Integration for M5StackSats](https://d11n.net/m5stacksats-btcpayserver-integration.html) - d11n.net
 - 2019/Dec/05 - [For “My Cause My Cleats” Design, Russell Okung Sports BTCPay Server](https://bitcoinmagazine.com/articles/cleats-cause-design-russell-okung-sports-btcpay-server) - Bitcoin Magazine
 - 2019/Jul/15 - [BTCPay Server Launches Tor Crowdfunding Campaign](https://bitcoinmagazine.com/articles/btcpay-server-launches-tor-crowdfunding-campaign) - Bitcoin Magazine
 - 2019/Apr/05 - [Accept Bitcoin payments with BTCPay Server ](https://www.bitcoinmerchant.directory/accept-payments-with-btcpay-server/) - bitcoinmerchant.directory
