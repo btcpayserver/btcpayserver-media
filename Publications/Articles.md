@@ -3,11 +3,16 @@ This list includes articles from media outlets and blogs. For articles and guide
 - 2020/May/28 - [OKCoin Grant Dishes $100K to Bitcoin Payment Processor ](https://cointelegraph.com/news/embargo-may-28-8am-est-okcoin-grant-dishes-100k-to-bitcoin-payment-processor) - Cointelegraph
 - 2020/May/28 - [OKCoin Grants $100,000 to BTCPay Server Toward Its Open-Source Development](https://bitcoinmagazine.com/articles/okcoin-grants-100000-to-btcpay-server-toward-its-open-source-development) - Bitcoin Magazine
 - 2020/Apr/16 - [BTCPay Looks to Anonymize Bitcoin Transactions With PayJoin Integration](https://www.coindesk.com/btcpay-looks-to-anonymize-bitcoin-transactions-with-payjoin-integration) - Coindesk
+- 2020/Mar/11 - [Human Rights Foundation now accepts bitcoin donations via BTCPay Server](https://www.theblockcrypto.com/linked/58376/human-rights-foundation-now-accepts-bitcoin-donations-via-btcpay-server) - The Block
+- 2020/Jan/21 - [Self-hosted bitcoin payments processor BTCPay launches new 'Vault' desktop app](https://www.theblockcrypto.com/linked/53596/self-hosted-bitcoin-payments-processor-btcpay-launches-new-vault-desktop-app) - The Block
 - 2020/Jan/20 - [BTCPay Server Now Processing Blockstream’s Liquid Assets](https://www.coindesk.com/btcpay-server-now-processing-blockstreams-liquid-assets) - Coindesk
 - 2019/Dec/16 - [BTCPay Server Is Bitcoin’s Open-Source Unicorn](https://bitcoinmagazine.com/articles/btcpay-server-is-bitcoins-open-source-unicorn) - Bitcoin Magazine
 - 2019/Dec/15 - [BTCPay Server Integration for M5StackSats](https://d11n.net/m5stacksats-btcpayserver-integration.html) - d11n.net
 - 2019/Dec/05 - [For “My Cause My Cleats” Design, Russell Okung Sports BTCPay Server](https://bitcoinmagazine.com/articles/cleats-cause-design-russell-okung-sports-btcpay-server) - Bitcoin Magazine
 - 2019/Oct/11 - [Hong Kong Free Press Gives BitPay the Boot, Brings BTCPay Onboard](https://bitcoinmagazine.com/articles/hong-kong-free-press-gives-bitpay-the-boot-brings-btcpay-onboard)
+- 2019/Sep/14 - [Square Crypto provides $100k grant to BTCPay Server](https://www.theblockcrypto.com/linked/39670/square-crypto-provides-100k-grant-to-btcpay-server) - The Block
+- 2019/Sep/14 - [Square Crypto Grants $100,000 to Open-Source Crypto Payment Processor](https://cointelegraph.com/news/square-crypto-grants-100-000-to-open-source-crypto-payment-processor) - CoinTelegraph
+- 2019/Sep/14 - [Payments Company Square’s Crypto Division Awards $100,000 Grant to BTCPay Foundation](https://www.crowdfundinsider.com/2019/09/151604-payments-company-squares-crypto-division-awards-100000-grant-to-btcpay-foundation/) - Crowdfund Insider
 - 2019/Jul/15 - [BTCPay Server Launches Tor Crowdfunding Campaign](https://bitcoinmagazine.com/articles/btcpay-server-launches-tor-crowdfunding-campaign) - Bitcoin Magazine
 - 2019/Apr/05 - [Accept Bitcoin payments with BTCPay Server ](https://www.bitcoinmerchant.directory/accept-payments-with-btcpay-server/) - bitcoinmerchant.directory
 - 2019/Mar/29 - [How to build a simple LAPP(lightning-app) using BTCPay/c-lightning/lightning-charge](https://medium.com/@christopheraarguello/how-to-build-a-simple-lapp-lightning-app-using-btcpay-c-lightning-lightning-charge-db2a3602594/)
