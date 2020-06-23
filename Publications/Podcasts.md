@@ -1,5 +1,6 @@
 This list contains podcasts pertaining to BTCPay.
 
+* 2020/Jun/24 - [OK Let’s Chat – Bitcoin is Not for Everybody, it’s for Anybody -Brittttt and Pavlenex](https://blog.okcoin.com/2020/06/23/ok-lets-chat-btcpay)
 * 2020/Apr/25 - [TotalBitcoin #94: Nicolas Dorier - Bitcoin´s Mass Adoption by Merchants with BtcPayServer?](https://anchor.fm/keyvandavani/episodes/TotalBitcoin-94-Nicolas-Dorier---Bitcoins-Mass-Adoption-by-Merchants-with-BtcPayServer-eehu5o) -Total Bitcoin Podcast
 * 2020/Feb/11 - [LNJ023 - Rockstardev talks Strike and Entropy](https://blog.sicksubroutine.com/lightning-junkies-episode-lnj023-rockstardev-talks-strike-and-entropy/) - Lightning Junkies Podcast
 * 2019/Dec/18 - [Weekly Bits #9: The Open-Source Mission of BTCPay Server](bitcoinmagazine.btc.libsynpro.com/weekly-bits-9-the-open-source-mission-of-btcpay-server) - Bitcoin Magazine Podcast
