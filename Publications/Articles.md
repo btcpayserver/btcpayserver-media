@@ -1,5 +1,8 @@
 This list includes articles from media outlets and blogs. For articles and guides written by BTCPay Contributors, [check our blog](https://blog.btcpayserver.org). If you wrote an article about BTCPay Server, or found one that's not listed, feel free to add it to the list.
 
+- 2020/Jun/25 - [Open Source Bitcoin Project BTCPay Server Receives $150k Grant From Kraken](https://www.forbes.com/sites/colinharper/2020/06/25/open-source-bitcoin-project-btcpay-server-receives-150k-grant-from-kraken/#8dd939a870f6) - Forbes
+- 2020/Jun/25 - [Kraken Announces Largest-Ever Grant to BTCPay Server](https://bitcoinmagazine.com/articles/kraken-announces-largest-ever-grant-to-btcpay) - Bitcoin Magazine
+- 2020/Jun/25 - [Kraken Pledges $150K for Development of Open-Source BTCPay Server](https://www.coindesk.com/kraken-pledges-150k-for-development-of-open-source-btcpay-server) - Coindesk
 - 2020/May/28 - [OKCoin Grant Dishes $100K to Bitcoin Payment Processor ](https://cointelegraph.com/news/embargo-may-28-8am-est-okcoin-grant-dishes-100k-to-bitcoin-payment-processor) - Cointelegraph
 - 2020/May/28 - [OKCoin Grants $100,000 to BTCPay Server Toward Its Open-Source Development](https://bitcoinmagazine.com/articles/okcoin-grants-100000-to-btcpay-server-toward-its-open-source-development) - Bitcoin Magazine
 - 2020/Apr/16 - [BTCPay Looks to Anonymize Bitcoin Transactions With PayJoin Integration](https://www.coindesk.com/btcpay-looks-to-anonymize-bitcoin-transactions-with-payjoin-integration) - Coindesk
