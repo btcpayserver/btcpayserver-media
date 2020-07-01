@@ -1,6 +1,6 @@
 This list includes articles from media outlets and blogs. For articles and guides written by BTCPay Contributors, [check our blog](https://blog.btcpayserver.org). If you wrote an article about BTCPay Server, or found one that's not listed, feel free to add it to the list.
 
-- 2020/Jun/27 - [Bitcoin refunds made possible with BTCPay Server update](https://decrypt.co/33812/bitcoin-refunds-possible-with-btcpay-server-update)
+- 2020/Jun/27 - [Bitcoin refunds made possible with BTCPay Server update](https://decrypt.co/33812/bitcoin-refunds-possible-with-btcpay-server-update) - Decrypt
 - 2020/Jun/25 - [Payment processor BTCPay receives $150,000 grant from Kraken](https://www.theblockcrypto.com/linked/69555/bitcoin-btcpay-grant-kraken) - The Block
 - 2020/Jun/25 - [Open Source Bitcoin Project BTCPay Server Receives $150k Grant From Kraken](https://www.forbes.com/sites/colinharper/2020/06/25/open-source-bitcoin-project-btcpay-server-receives-150k-grant-from-kraken/#8dd939a870f6) - Forbes
 - 2020/Jun/25 - [Kraken Announces Largest-Ever Grant to BTCPay Server](https://bitcoinmagazine.com/articles/kraken-announces-largest-ever-grant-to-btcpay) - Bitcoin Magazine
