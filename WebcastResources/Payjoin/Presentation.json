@@ -1,0 +1,1247 @@
+{
+    "AuxAudioDevice1": {
+        "balance": 0.5,
+        "deinterlace_field_order": 0,
+        "deinterlace_mode": 0,
+        "enabled": true,
+        "filters": [
+            {
+                "balance": 0.5,
+                "deinterlace_field_order": 0,
+                "deinterlace_mode": 0,
+                "enabled": true,
+                "flags": 0,
+                "hotkeys": {},
+                "id": "noise_suppress_filter",
+                "mixers": 255,
+                "monitoring_type": 0,
+                "muted": false,
+                "name": "Noise Suppression",
+                "prev_ver": 419430408,
+                "private_settings": {},
+                "push-to-mute": false,
+                "push-to-mute-delay": 0,
+                "push-to-talk": false,
+                "push-to-talk-delay": 0,
+                "settings": {},
+                "sync": 0,
+                "versioned_id": "noise_suppress_filter",
+                "volume": 1.0
+            },
+            {
+                "balance": 0.5,
+                "deinterlace_field_order": 0,
+                "deinterlace_mode": 0,
+                "enabled": true,
+                "flags": 0,
+                "hotkeys": {},
+                "id": "noise_gate_filter",
+                "mixers": 255,
+                "monitoring_type": 0,
+                "muted": false,
+                "name": "Noise Gate",
+                "prev_ver": 419430408,
+                "private_settings": {},
+                "push-to-mute": false,
+                "push-to-mute-delay": 0,
+                "push-to-talk": false,
+                "push-to-talk-delay": 0,
+                "settings": {},
+                "sync": 0,
+                "versioned_id": "noise_gate_filter",
+                "volume": 1.0
+            }
+        ],
+        "flags": 0,
+        "hotkeys": {
+            "libobs.mute": [],
+            "libobs.push-to-mute": [],
+            "libobs.push-to-talk": [],
+            "libobs.unmute": []
+        },
+        "id": "wasapi_input_capture",
+        "mixers": 255,
+        "monitoring_type": 0,
+        "muted": false,
+        "name": "Mic/Aux",
+        "prev_ver": 419430408,
+        "private_settings": {
+            "volume_locked": false
+        },
+        "push-to-mute": false,
+        "push-to-mute-delay": 0,
+        "push-to-talk": false,
+        "push-to-talk-delay": 0,
+        "settings": {
+            "device_id": "{0.0.1.00000000}.{fbdf3719-48e0-457a-aeeb-986951a8d708}"
+        },
+        "sync": 0,
+        "versioned_id": "wasapi_input_capture",
+        "volume": 0.19435106217861176
+    },
+    "DesktopAudioDevice1": {
+        "balance": 0.5,
+        "deinterlace_field_order": 0,
+        "deinterlace_mode": 0,
+        "enabled": true,
+        "flags": 0,
+        "hotkeys": {
+            "libobs.mute": [],
+            "libobs.push-to-mute": [],
+            "libobs.push-to-talk": [],
+            "libobs.unmute": []
+        },
+        "id": "wasapi_output_capture",
+        "mixers": 255,
+        "monitoring_type": 0,
+        "muted": false,
+        "name": "Desktop Audio",
+        "prev_ver": 419430408,
+        "private_settings": {},
+        "push-to-mute": false,
+        "push-to-mute-delay": 0,
+        "push-to-talk": false,
+        "push-to-talk-delay": 0,
+        "settings": {
+            "device_id": "default"
+        },
+        "sync": 0,
+        "versioned_id": "wasapi_output_capture",
+        "volume": 1.0
+    },
+    "current_program_scene": "ThankYou",
+    "current_scene": "ThankYou",
+    "current_transition": "Fade",
+    "groups": [],
+    "modules": {
+        "auto-scene-switcher": {
+            "active": false,
+            "interval": 300,
+            "non_matching_scene": "",
+            "switch_if_not_matching": false,
+            "switches": []
+        },
+        "captions": {
+            "enabled": false,
+            "lang_id": 1033,
+            "provider": "mssapi",
+            "source": ""
+        },
+        "output-timer": {
+            "autoStartRecordTimer": false,
+            "autoStartStreamTimer": false,
+            "pauseRecordTimer": true,
+            "recordTimerHours": 0,
+            "recordTimerMinutes": 0,
+            "recordTimerSeconds": 30,
+            "streamTimerHours": 0,
+            "streamTimerMinutes": 0,
+            "streamTimerSeconds": 30
+        },
+        "scripts-tool": []
+    },
+    "name": "Untitled",
+    "preview_locked": false,
+    "quick_transitions": [
+        {
+            "duration": 300,
+            "fade_to_black": false,
+            "hotkeys": [],
+            "id": 1,
+            "name": "Cut"
+        },
+        {
+            "duration": 300,
+            "fade_to_black": false,
+            "hotkeys": [],
+            "id": 2,
+            "name": "Fade"
+        },
+        {
+            "duration": 300,
+            "fade_to_black": true,
+            "hotkeys": [],
+            "id": 3,
+            "name": "Fade"
+        }
+    ],
+    "saved_projectors": [],
+    "scaling_enabled": false,
+    "scaling_level": 0,
+    "scaling_off_x": 0.0,
+    "scaling_off_y": 0.0,
+    "scene_order": [
+        {
+            "name": "Intro"
+        },
+        {
+            "name": "Intro 2"
+        },
+        {
+            "name": "Theory"
+        },
+        {
+            "name": "Demo"
+        },
+        {
+            "name": "ThankYou"
+        }
+    ],
+    "sources": [
+        {
+            "balance": 0.5,
+            "deinterlace_field_order": 0,
+            "deinterlace_mode": 0,
+            "enabled": true,
+            "flags": 0,
+            "hotkeys": {},
+            "id": "window_capture",
+            "mixers": 0,
+            "monitoring_type": 0,
+            "muted": false,
+            "name": "Window Capture",
+            "prev_ver": 419430408,
+            "private_settings": {},
+            "push-to-mute": false,
+            "push-to-mute-delay": 0,
+            "push-to-talk": false,
+            "push-to-talk-delay": 0,
+            "settings": {},
+            "sync": 0,
+            "versioned_id": "window_capture",
+            "volume": 1.0
+        },
+        {
+            "balance": 0.5,
+            "deinterlace_field_order": 0,
+            "deinterlace_mode": 0,
+            "enabled": true,
+            "flags": 0,
+            "hotkeys": {},
+            "id": "window_capture",
+            "mixers": 0,
+            "monitoring_type": 0,
+            "muted": false,
+            "name": "Powerpoint",
+            "prev_ver": 419430408,
+            "private_settings": {},
+            "push-to-mute": false,
+            "push-to-mute-delay": 0,
+            "push-to-talk": false,
+            "push-to-talk-delay": 0,
+            "settings": {
+                "cursor": false,
+                "method": 1,
+                "window": "Slides.pptx - PowerPoint:PPTFrameClass:POWERPNT.EXE"
+            },
+            "sync": 0,
+            "versioned_id": "window_capture",
+            "volume": 1.0
+        },
+        {
+            "balance": 0.5,
+            "deinterlace_field_order": 0,
+            "deinterlace_mode": 0,
+            "enabled": true,
+            "flags": 0,
+            "hotkeys": {},
+            "id": "image_source",
+            "mixers": 0,
+            "monitoring_type": 0,
+            "muted": false,
+            "name": "Sponsors",
+            "prev_ver": 419430408,
+            "private_settings": {},
+            "push-to-mute": false,
+            "push-to-mute-delay": 0,
+            "push-to-talk": false,
+            "push-to-talk-delay": 0,
+            "settings": {
+                "file": "C:/Users/NicolasDorier/Downloads/svg/svg/PayjoinPresentation/Sponsors.png"
+            },
+            "sync": 0,
+            "versioned_id": "image_source",
+            "volume": 1.0
+        },
+        {
+            "balance": 0.5,
+            "deinterlace_field_order": 0,
+            "deinterlace_mode": 0,
+            "enabled": true,
+            "flags": 0,
+            "hotkeys": {
+                "OBSBasic.SelectScene": [],
+                "libobs.hide_scene_item.Mic/Aux": [],
+                "libobs.hide_scene_item.Sponsors": [],
+                "libobs.show_scene_item.Mic/Aux": [],
+                "libobs.show_scene_item.Sponsors": []
+            },
+            "id": "scene",
+            "mixers": 0,
+            "monitoring_type": 0,
+            "muted": false,
+            "name": "ThankYou",
+            "prev_ver": 419430408,
+            "private_settings": {},
+            "push-to-mute": false,
+            "push-to-mute-delay": 0,
+            "push-to-talk": false,
+            "push-to-talk-delay": 0,
+            "settings": {
+                "custom_size": false,
+                "id_counter": 7,
+                "items": [
+                    {
+                        "align": 5,
+                        "bounds": {
+                            "x": 0.0,
+                            "y": 0.0
+                        },
+                        "bounds_align": 0,
+                        "bounds_type": 0,
+                        "crop_bottom": 0,
+                        "crop_left": 0,
+                        "crop_right": 0,
+                        "crop_top": 0,
+                        "group_item_backup": false,
+                        "id": 4,
+                        "locked": false,
+                        "name": "Sponsors",
+                        "pos": {
+                            "x": 0.0,
+                            "y": 0.0
+                        },
+                        "private_settings": {},
+                        "rot": 0.0,
+                        "scale": {
+                            "x": 1.0,
+                            "y": 1.0
+                        },
+                        "scale_filter": "disable",
+                        "visible": true
+                    },
+                    {
+                        "align": 5,
+                        "bounds": {
+                            "x": 0.0,
+                            "y": 0.0
+                        },
+                        "bounds_align": 0,
+                        "bounds_type": 0,
+                        "crop_bottom": 0,
+                        "crop_left": 0,
+                        "crop_right": 0,
+                        "crop_top": 0,
+                        "group_item_backup": false,
+                        "id": 7,
+                        "locked": false,
+                        "name": "Mic/Aux",
+                        "pos": {
+                            "x": 0.0,
+                            "y": 0.0
+                        },
+                        "private_settings": {},
+                        "rot": 0.0,
+                        "scale": {
+                            "x": 1.0,
+                            "y": 1.0
+                        },
+                        "scale_filter": "disable",
+                        "visible": true
+                    }
+                ]
+            },
+            "sync": 0,
+            "versioned_id": "scene",
+            "volume": 1.0
+        },
+        {
+            "balance": 0.5,
+            "deinterlace_field_order": 0,
+            "deinterlace_mode": 0,
+            "enabled": true,
+            "flags": 0,
+            "hotkeys": {
+                "OBSBasic.SelectScene": [],
+                "libobs.hide_scene_item.Background": [],
+                "libobs.hide_scene_item.Mic/Aux": [],
+                "libobs.hide_scene_item.Powerpoint": [],
+                "libobs.hide_scene_item.Webcam": [],
+                "libobs.hide_scene_item.Window Capture": [],
+                "libobs.show_scene_item.Background": [],
+                "libobs.show_scene_item.Mic/Aux": [],
+                "libobs.show_scene_item.Powerpoint": [],
+                "libobs.show_scene_item.Webcam": [],
+                "libobs.show_scene_item.Window Capture": []
+            },
+            "id": "scene",
+            "mixers": 0,
+            "monitoring_type": 0,
+            "muted": false,
+            "name": "Theory",
+            "prev_ver": 419430408,
+            "private_settings": {},
+            "push-to-mute": false,
+            "push-to-mute-delay": 0,
+            "push-to-talk": false,
+            "push-to-talk-delay": 0,
+            "settings": {
+                "custom_size": false,
+                "id_counter": 9,
+                "items": [
+                    {
+                        "align": 5,
+                        "bounds": {
+                            "x": 0.0,
+                            "y": 0.0
+                        },
+                        "bounds_align": 0,
+                        "bounds_type": 0,
+                        "crop_bottom": 0,
+                        "crop_left": 0,
+                        "crop_right": 0,
+                        "crop_top": 0,
+                        "group_item_backup": false,
+                        "id": 1,
+                        "locked": false,
+                        "name": "Background",
+                        "pos": {
+                            "x": 0.0,
+                            "y": 0.0
+                        },
+                        "private_settings": {},
+                        "rot": 0.0,
+                        "scale": {
+                            "x": 1.0,
+                            "y": 1.0
+                        },
+                        "scale_filter": "disable",
+                        "visible": true
+                    },
+                    {
+                        "align": 5,
+                        "bounds": {
+                            "x": 1920.0,
+                            "y": 1080.0
+                        },
+                        "bounds_align": 0,
+                        "bounds_type": 1,
+                        "crop_bottom": 23,
+                        "crop_left": 0,
+                        "crop_right": 0,
+                        "crop_top": 0,
+                        "group_item_backup": false,
+                        "id": 7,
+                        "locked": false,
+                        "name": "Powerpoint",
+                        "pos": {
+                            "x": 0.0,
+                            "y": 0.0
+                        },
+                        "private_settings": {},
+                        "rot": 0.0,
+                        "scale": {
+                            "x": 1.0,
+                            "y": 1.0
+                        },
+                        "scale_filter": "disable",
+                        "visible": true
+                    },
+                    {
+                        "align": 5,
+                        "bounds": {
+                            "x": 0.0,
+                            "y": 0.0
+                        },
+                        "bounds_align": 0,
+                        "bounds_type": 0,
+                        "crop_bottom": 0,
+                        "crop_left": 0,
+                        "crop_right": 0,
+                        "crop_top": 0,
+                        "group_item_backup": false,
+                        "id": 8,
+                        "locked": false,
+                        "name": "Window Capture",
+                        "pos": {
+                            "x": 0.0,
+                            "y": 0.0
+                        },
+                        "private_settings": {},
+                        "rot": 0.0,
+                        "scale": {
+                            "x": 1.0,
+                            "y": 1.0
+                        },
+                        "scale_filter": "disable",
+                        "visible": true
+                    },
+                    {
+                        "align": 5,
+                        "bounds": {
+                            "x": 0.0,
+                            "y": 0.0
+                        },
+                        "bounds_align": 0,
+                        "bounds_type": 0,
+                        "crop_bottom": 0,
+                        "crop_left": 0,
+                        "crop_right": 0,
+                        "crop_top": 0,
+                        "group_item_backup": false,
+                        "id": 2,
+                        "locked": false,
+                        "name": "Webcam",
+                        "pos": {
+                            "x": 1552.0,
+                            "y": 873.0
+                        },
+                        "private_settings": {},
+                        "rot": 0.0,
+                        "scale": {
+                            "x": 0.28749999403953552,
+                            "y": 0.28749999403953552
+                        },
+                        "scale_filter": "disable",
+                        "visible": true
+                    },
+                    {
+                        "align": 5,
+                        "bounds": {
+                            "x": 0.0,
+                            "y": 0.0
+                        },
+                        "bounds_align": 0,
+                        "bounds_type": 0,
+                        "crop_bottom": 0,
+                        "crop_left": 0,
+                        "crop_right": 0,
+                        "crop_top": 0,
+                        "group_item_backup": false,
+                        "id": 9,
+                        "locked": false,
+                        "name": "Mic/Aux",
+                        "pos": {
+                            "x": 0.0,
+                            "y": 0.0
+                        },
+                        "private_settings": {},
+                        "rot": 0.0,
+                        "scale": {
+                            "x": 1.0,
+                            "y": 1.0
+                        },
+                        "scale_filter": "disable",
+                        "visible": true
+                    }
+                ]
+            },
+            "sync": 0,
+            "versioned_id": "scene",
+            "volume": 1.0
+        },
+        {
+            "balance": 0.5,
+            "deinterlace_field_order": 0,
+            "deinterlace_mode": 0,
+            "enabled": true,
+            "flags": 0,
+            "hotkeys": {},
+            "id": "image_source",
+            "mixers": 0,
+            "monitoring_type": 0,
+            "muted": false,
+            "name": "Background",
+            "prev_ver": 419430408,
+            "private_settings": {},
+            "push-to-mute": false,
+            "push-to-mute-delay": 0,
+            "push-to-talk": false,
+            "push-to-talk-delay": 0,
+            "settings": {
+                "file": "C:/Users/NicolasDorier/Downloads/svg/svg/background.png"
+            },
+            "sync": 0,
+            "versioned_id": "image_source",
+            "volume": 1.0
+        },
+        {
+            "balance": 0.5,
+            "deinterlace_field_order": 0,
+            "deinterlace_mode": 0,
+            "enabled": true,
+            "flags": 0,
+            "hotkeys": {},
+            "id": "window_capture",
+            "mixers": 0,
+            "monitoring_type": 0,
+            "muted": false,
+            "name": "Bob",
+            "prev_ver": 419430408,
+            "private_settings": {},
+            "push-to-mute": false,
+            "push-to-mute-delay": 0,
+            "push-to-talk": false,
+            "push-to-talk-delay": 0,
+            "settings": {
+                "cursor": false,
+                "method": 0,
+                "window": "Stores - Mozilla Firefox:MozillaWindowClass:firefox.exe"
+            },
+            "sync": 0,
+            "versioned_id": "window_capture",
+            "volume": 1.0
+        },
+        {
+            "balance": 0.5,
+            "deinterlace_field_order": 0,
+            "deinterlace_mode": 0,
+            "enabled": true,
+            "flags": 0,
+            "hotkeys": {},
+            "id": "window_capture",
+            "mixers": 0,
+            "monitoring_type": 0,
+            "muted": false,
+            "name": "Alice",
+            "prev_ver": 419430408,
+            "private_settings": {},
+            "push-to-mute": false,
+            "push-to-mute-delay": 0,
+            "push-to-talk": false,
+            "push-to-talk-delay": 0,
+            "settings": {
+                "window": "Wallets - Mozilla Firefox:MozillaWindowClass:firefox.exe"
+            },
+            "sync": 0,
+            "versioned_id": "window_capture",
+            "volume": 1.0
+        },
+        {
+            "balance": 0.5,
+            "deinterlace_field_order": 0,
+            "deinterlace_mode": 0,
+            "enabled": true,
+            "flags": 0,
+            "hotkeys": {
+                "libobs.mute": [],
+                "libobs.push-to-mute": [],
+                "libobs.push-to-talk": [],
+                "libobs.unmute": []
+            },
+            "id": "dshow_input",
+            "mixers": 255,
+            "monitoring_type": 0,
+            "muted": false,
+            "name": "Webcam",
+            "prev_ver": 419430408,
+            "private_settings": {},
+            "push-to-mute": false,
+            "push-to-mute-delay": 0,
+            "push-to-talk": false,
+            "push-to-talk-delay": 0,
+            "settings": {
+                "last_video_device_id": "Integrated Camera:\\\\?\\usb#22vid_04f2&pid_b67c&mi_00#226&325e987&0&0000#22{65e8773d-8f56-11d0-a3b9-00a0c9223196}\\global",
+                "video_device_id": "Integrated Camera:\\\\?\\usb#22vid_04f2&pid_b67c&mi_00#226&325e987&0&0000#22{65e8773d-8f56-11d0-a3b9-00a0c9223196}\\global"
+            },
+            "sync": 0,
+            "versioned_id": "dshow_input",
+            "volume": 1.0
+        },
+        {
+            "balance": 0.5,
+            "deinterlace_field_order": 0,
+            "deinterlace_mode": 0,
+            "enabled": true,
+            "flags": 0,
+            "hotkeys": {},
+            "id": "image_source",
+            "mixers": 0,
+            "monitoring_type": 0,
+            "muted": false,
+            "name": "BTCPay Intro",
+            "prev_ver": 419430408,
+            "private_settings": {},
+            "push-to-mute": false,
+            "push-to-mute-delay": 0,
+            "push-to-talk": false,
+            "push-to-talk-delay": 0,
+            "settings": {
+                "file": "C:/Users/NicolasDorier/Downloads/svg/svg/PayjoinPresentation/rect3367.png"
+            },
+            "sync": 0,
+            "versioned_id": "image_source",
+            "volume": 1.0
+        },
+        {
+            "balance": 0.5,
+            "deinterlace_field_order": 0,
+            "deinterlace_mode": 0,
+            "enabled": true,
+            "flags": 0,
+            "hotkeys": {
+                "OBSBasic.SelectScene": [],
+                "libobs.hide_scene_item.Alice": [],
+                "libobs.hide_scene_item.AliceImg": [],
+                "libobs.hide_scene_item.Background": [],
+                "libobs.hide_scene_item.Bob": [],
+                "libobs.hide_scene_item.BobImg": [],
+                "libobs.hide_scene_item.DemoImg": [],
+                "libobs.hide_scene_item.Mic/Aux": [],
+                "libobs.hide_scene_item.Webcam": [],
+                "libobs.show_scene_item.Alice": [],
+                "libobs.show_scene_item.AliceImg": [],
+                "libobs.show_scene_item.Background": [],
+                "libobs.show_scene_item.Bob": [],
+                "libobs.show_scene_item.BobImg": [],
+                "libobs.show_scene_item.DemoImg": [],
+                "libobs.show_scene_item.Mic/Aux": [],
+                "libobs.show_scene_item.Webcam": []
+            },
+            "id": "scene",
+            "mixers": 0,
+            "monitoring_type": 0,
+            "muted": false,
+            "name": "Demo",
+            "prev_ver": 419430408,
+            "private_settings": {},
+            "push-to-mute": false,
+            "push-to-mute-delay": 0,
+            "push-to-talk": false,
+            "push-to-talk-delay": 0,
+            "settings": {
+                "custom_size": false,
+                "id_counter": 18,
+                "items": [
+                    {
+                        "align": 5,
+                        "bounds": {
+                            "x": 0.0,
+                            "y": 0.0
+                        },
+                        "bounds_align": 0,
+                        "bounds_type": 0,
+                        "crop_bottom": 0,
+                        "crop_left": 0,
+                        "crop_right": 0,
+                        "crop_top": 0,
+                        "group_item_backup": false,
+                        "id": 8,
+                        "locked": false,
+                        "name": "Background",
+                        "pos": {
+                            "x": 0.0,
+                            "y": 0.0
+                        },
+                        "private_settings": {},
+                        "rot": 0.0,
+                        "scale": {
+                            "x": 1.0,
+                            "y": 1.0
+                        },
+                        "scale_filter": "disable",
+                        "visible": true
+                    },
+                    {
+                        "align": 5,
+                        "bounds": {
+                            "x": 1.0,
+                            "y": 1.0
+                        },
+                        "bounds_align": 0,
+                        "bounds_type": 0,
+                        "crop_bottom": 28,
+                        "crop_left": 0,
+                        "crop_right": 0,
+                        "crop_top": 65,
+                        "group_item_backup": false,
+                        "id": 3,
+                        "locked": false,
+                        "name": "Alice",
+                        "pos": {
+                            "x": -150.0,
+                            "y": 0.0
+                        },
+                        "private_settings": {},
+                        "rot": 0.0,
+                        "scale": {
+                            "x": 1.234864354133606,
+                            "y": 1.2347418069839478
+                        },
+                        "scale_filter": "disable",
+                        "visible": true
+                    },
+                    {
+                        "align": 5,
+                        "bounds": {
+                            "x": 1.0,
+                            "y": 1.0
+                        },
+                        "bounds_align": 0,
+                        "bounds_type": 0,
+                        "crop_bottom": 0,
+                        "crop_left": 0,
+                        "crop_right": 0,
+                        "crop_top": 65,
+                        "group_item_backup": false,
+                        "id": 4,
+                        "locked": false,
+                        "name": "Bob",
+                        "pos": {
+                            "x": -150.0,
+                            "y": 534.0
+                        },
+                        "private_settings": {},
+                        "rot": 0.0,
+                        "scale": {
+                            "x": 1.2085728645324707,
+                            "y": 1.2092510461807251
+                        },
+                        "scale_filter": "disable",
+                        "visible": true
+                    },
+                    {
+                        "align": 5,
+                        "bounds": {
+                            "x": 1.0,
+                            "y": 1.0
+                        },
+                        "bounds_align": 0,
+                        "bounds_type": 0,
+                        "crop_bottom": 0,
+                        "crop_left": 0,
+                        "crop_right": 0,
+                        "crop_top": 0,
+                        "group_item_backup": false,
+                        "id": 1,
+                        "locked": false,
+                        "name": "Webcam",
+                        "pos": {
+                            "x": 1552.0,
+                            "y": 0.0
+                        },
+                        "private_settings": {},
+                        "rot": 0.0,
+                        "scale": {
+                            "x": 0.28749999403953552,
+                            "y": 0.28749999403953552
+                        },
+                        "scale_filter": "disable",
+                        "visible": true
+                    },
+                    {
+                        "align": 5,
+                        "bounds": {
+                            "x": 1.0,
+                            "y": 1.0
+                        },
+                        "bounds_align": 0,
+                        "bounds_type": 0,
+                        "crop_bottom": 0,
+                        "crop_left": 0,
+                        "crop_right": 0,
+                        "crop_top": 0,
+                        "group_item_backup": false,
+                        "id": 15,
+                        "locked": false,
+                        "name": "DemoImg",
+                        "pos": {
+                            "x": 0.0,
+                            "y": 400.0
+                        },
+                        "private_settings": {},
+                        "rot": 0.0,
+                        "scale": {
+                            "x": 1.0,
+                            "y": 1.0
+                        },
+                        "scale_filter": "disable",
+                        "visible": true
+                    },
+                    {
+                        "align": 5,
+                        "bounds": {
+                            "x": 0.0,
+                            "y": 0.0
+                        },
+                        "bounds_align": 0,
+                        "bounds_type": 0,
+                        "crop_bottom": 0,
+                        "crop_left": 0,
+                        "crop_right": 0,
+                        "crop_top": 0,
+                        "group_item_backup": false,
+                        "id": 16,
+                        "locked": false,
+                        "name": "BobImg",
+                        "pos": {
+                            "x": 0.0,
+                            "y": 1013.0
+                        },
+                        "private_settings": {},
+                        "rot": 0.0,
+                        "scale": {
+                            "x": 1.0,
+                            "y": 1.0
+                        },
+                        "scale_filter": "disable",
+                        "visible": true
+                    },
+                    {
+                        "align": 5,
+                        "bounds": {
+                            "x": 0.0,
+                            "y": 0.0
+                        },
+                        "bounds_align": 0,
+                        "bounds_type": 0,
+                        "crop_bottom": 0,
+                        "crop_left": 0,
+                        "crop_right": 0,
+                        "crop_top": 0,
+                        "group_item_backup": false,
+                        "id": 17,
+                        "locked": false,
+                        "name": "AliceImg",
+                        "pos": {
+                            "x": 0.0,
+                            "y": 0.0
+                        },
+                        "private_settings": {},
+                        "rot": 0.0,
+                        "scale": {
+                            "x": 1.0,
+                            "y": 1.0
+                        },
+                        "scale_filter": "disable",
+                        "visible": true
+                    },
+                    {
+                        "align": 5,
+                        "bounds": {
+                            "x": 0.0,
+                            "y": 0.0
+                        },
+                        "bounds_align": 0,
+                        "bounds_type": 0,
+                        "crop_bottom": 0,
+                        "crop_left": 0,
+                        "crop_right": 0,
+                        "crop_top": 0,
+                        "group_item_backup": false,
+                        "id": 18,
+                        "locked": false,
+                        "name": "Mic/Aux",
+                        "pos": {
+                            "x": 0.0,
+                            "y": 0.0
+                        },
+                        "private_settings": {},
+                        "rot": 0.0,
+                        "scale": {
+                            "x": 1.0,
+                            "y": 1.0
+                        },
+                        "scale_filter": "disable",
+                        "visible": true
+                    }
+                ]
+            },
+            "sync": 0,
+            "versioned_id": "scene",
+            "volume": 1.0
+        },
+        {
+            "balance": 0.5,
+            "deinterlace_field_order": 0,
+            "deinterlace_mode": 0,
+            "enabled": true,
+            "flags": 0,
+            "hotkeys": {
+                "OBSBasic.SelectScene": [],
+                "libobs.hide_scene_item.BTCPay Intro": [],
+                "libobs.hide_scene_item.Mic/Aux": [],
+                "libobs.show_scene_item.BTCPay Intro": [],
+                "libobs.show_scene_item.Mic/Aux": []
+            },
+            "id": "scene",
+            "mixers": 0,
+            "monitoring_type": 0,
+            "muted": false,
+            "name": "Intro",
+            "prev_ver": 419430408,
+            "private_settings": {},
+            "push-to-mute": false,
+            "push-to-mute-delay": 0,
+            "push-to-talk": false,
+            "push-to-talk-delay": 0,
+            "settings": {
+                "custom_size": false,
+                "id_counter": 19,
+                "items": [
+                    {
+                        "align": 5,
+                        "bounds": {
+                            "x": 0.0,
+                            "y": 0.0
+                        },
+                        "bounds_align": 0,
+                        "bounds_type": 0,
+                        "crop_bottom": 0,
+                        "crop_left": 0,
+                        "crop_right": 0,
+                        "crop_top": 0,
+                        "group_item_backup": false,
+                        "id": 17,
+                        "locked": false,
+                        "name": "BTCPay Intro",
+                        "pos": {
+                            "x": 0.0,
+                            "y": 0.0
+                        },
+                        "private_settings": {},
+                        "rot": 0.0,
+                        "scale": {
+                            "x": 1.50390625,
+                            "y": 1.5041667222976685
+                        },
+                        "scale_filter": "disable",
+                        "visible": true
+                    },
+                    {
+                        "align": 5,
+                        "bounds": {
+                            "x": 0.0,
+                            "y": 0.0
+                        },
+                        "bounds_align": 0,
+                        "bounds_type": 0,
+                        "crop_bottom": 0,
+                        "crop_left": 0,
+                        "crop_right": 0,
+                        "crop_top": 0,
+                        "group_item_backup": false,
+                        "id": 19,
+                        "locked": false,
+                        "name": "Mic/Aux",
+                        "pos": {
+                            "x": 0.0,
+                            "y": 0.0
+                        },
+                        "private_settings": {},
+                        "rot": 0.0,
+                        "scale": {
+                            "x": 1.0,
+                            "y": 1.0
+                        },
+                        "scale_filter": "disable",
+                        "visible": true
+                    }
+                ]
+            },
+            "sync": 0,
+            "versioned_id": "scene",
+            "volume": 1.0
+        },
+        {
+            "balance": 0.5,
+            "deinterlace_field_order": 0,
+            "deinterlace_mode": 0,
+            "enabled": true,
+            "flags": 0,
+            "hotkeys": {
+                "OBSBasic.SelectScene": [],
+                "libobs.hide_scene_item.BTCPay Intro": [],
+                "libobs.hide_scene_item.Mic/Aux": [],
+                "libobs.hide_scene_item.Webcam": [],
+                "libobs.show_scene_item.BTCPay Intro": [],
+                "libobs.show_scene_item.Mic/Aux": [],
+                "libobs.show_scene_item.Webcam": []
+            },
+            "id": "scene",
+            "mixers": 0,
+            "monitoring_type": 0,
+            "muted": false,
+            "name": "Intro 2",
+            "prev_ver": 419430408,
+            "private_settings": {},
+            "push-to-mute": false,
+            "push-to-mute-delay": 0,
+            "push-to-talk": false,
+            "push-to-talk-delay": 0,
+            "settings": {
+                "custom_size": false,
+                "id_counter": 3,
+                "items": [
+                    {
+                        "align": 5,
+                        "bounds": {
+                            "x": 0.0,
+                            "y": 0.0
+                        },
+                        "bounds_align": 0,
+                        "bounds_type": 0,
+                        "crop_bottom": 0,
+                        "crop_left": 0,
+                        "crop_right": 0,
+                        "crop_top": 0,
+                        "group_item_backup": false,
+                        "id": 1,
+                        "locked": false,
+                        "name": "BTCPay Intro",
+                        "pos": {
+                            "x": 0.0,
+                            "y": 0.0
+                        },
+                        "private_settings": {},
+                        "rot": 0.0,
+                        "scale": {
+                            "x": 1.50390625,
+                            "y": 1.5041667222976685
+                        },
+                        "scale_filter": "disable",
+                        "visible": true
+                    },
+                    {
+                        "align": 5,
+                        "bounds": {
+                            "x": 1.0,
+                            "y": 1.0
+                        },
+                        "bounds_align": 0,
+                        "bounds_type": 0,
+                        "crop_bottom": 0,
+                        "crop_left": 0,
+                        "crop_right": 0,
+                        "crop_top": 0,
+                        "group_item_backup": false,
+                        "id": 2,
+                        "locked": false,
+                        "name": "Webcam",
+                        "pos": {
+                            "x": 1552.0,
+                            "y": 873.0
+                        },
+                        "private_settings": {},
+                        "rot": 0.0,
+                        "scale": {
+                            "x": 0.28749999403953552,
+                            "y": 0.28749999403953552
+                        },
+                        "scale_filter": "disable",
+                        "visible": true
+                    },
+                    {
+                        "align": 5,
+                        "bounds": {
+                            "x": 0.0,
+                            "y": 0.0
+                        },
+                        "bounds_align": 0,
+                        "bounds_type": 0,
+                        "crop_bottom": 0,
+                        "crop_left": 0,
+                        "crop_right": 0,
+                        "crop_top": 0,
+                        "group_item_backup": false,
+                        "id": 3,
+                        "locked": false,
+                        "name": "Mic/Aux",
+                        "pos": {
+                            "x": 0.0,
+                            "y": 0.0
+                        },
+                        "private_settings": {},
+                        "rot": 0.0,
+                        "scale": {
+                            "x": 1.0,
+                            "y": 1.0
+                        },
+                        "scale_filter": "disable",
+                        "visible": true
+                    }
+                ]
+            },
+            "sync": 0,
+            "versioned_id": "scene",
+            "volume": 1.0
+        },
+        {
+            "balance": 0.5,
+            "deinterlace_field_order": 0,
+            "deinterlace_mode": 0,
+            "enabled": true,
+            "flags": 0,
+            "hotkeys": {},
+            "id": "image_source",
+            "mixers": 0,
+            "monitoring_type": 0,
+            "muted": false,
+            "name": "DemoImg",
+            "prev_ver": 419430408,
+            "private_settings": {},
+            "push-to-mute": false,
+            "push-to-mute-delay": 0,
+            "push-to-talk": false,
+            "push-to-talk-delay": 0,
+            "settings": {
+                "file": "C:/Users/NicolasDorier/Downloads/svg/svg/PayjoinPresentation/Demo.png"
+            },
+            "sync": 0,
+            "versioned_id": "image_source",
+            "volume": 1.0
+        },
+        {
+            "balance": 0.5,
+            "deinterlace_field_order": 0,
+            "deinterlace_mode": 0,
+            "enabled": true,
+            "flags": 0,
+            "hotkeys": {},
+            "id": "image_source",
+            "mixers": 0,
+            "monitoring_type": 0,
+            "muted": false,
+            "name": "BobImg",
+            "prev_ver": 419430408,
+            "private_settings": {},
+            "push-to-mute": false,
+            "push-to-mute-delay": 0,
+            "push-to-talk": false,
+            "push-to-talk-delay": 0,
+            "settings": {
+                "file": "C:/Users/NicolasDorier/Downloads/svg/svg/PayjoinPresentation/Bob.png"
+            },
+            "sync": 0,
+            "versioned_id": "image_source",
+            "volume": 1.0
+        },
+        {
+            "balance": 0.5,
+            "deinterlace_field_order": 0,
+            "deinterlace_mode": 0,
+            "enabled": true,
+            "flags": 0,
+            "hotkeys": {},
+            "id": "image_source",
+            "mixers": 0,
+            "monitoring_type": 0,
+            "muted": false,
+            "name": "AliceImg",
+            "prev_ver": 419430408,
+            "private_settings": {},
+            "push-to-mute": false,
+            "push-to-mute-delay": 0,
+            "push-to-talk": false,
+            "push-to-talk-delay": 0,
+            "settings": {
+                "file": "C:/Users/NicolasDorier/Downloads/svg/svg/PayjoinPresentation/Alice.png"
+            },
+            "sync": 0,
+            "versioned_id": "image_source",
+            "volume": 1.0
+        }
+    ],
+    "transition_duration": 300,
+    "transitions": []
+}
