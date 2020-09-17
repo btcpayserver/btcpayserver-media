@@ -2,6 +2,7 @@ This page contains chronologically sorted videos featuring BTCPay developers on 
 
 ## Interviews
 
+* 2020/Sep/15 - [Building on top of BTC Pay Server #TechnicalTuesday Bitcoin Magazine](https://www.youtube.com/watch?v=koCujSoudAg)
 * 2020/Apr/25 - [TotalBitcoin #94: Nicolas Dorier - Bitcoin´s Mass Adoption by Merchants with BtcPayServer?](https://youtu.be/YPLOnyRzjXc)
 * 2020/May/10 - [SLP172 Nicolas Dorier & Kukks - P2EP Comes To BTCPay Server](https://youtu.be/Sd_0Ybqz6B0)
 * 2019/Sep/03 - [WCN - BitBrum in Birmingham - Esky](https://youtu.be/1TRzSJOM19U?t=1961)
@@ -19,6 +20,8 @@ This page contains chronologically sorted videos featuring BTCPay developers on 
 * 2017/Dec/27 - [BTCPay is Better and Cheaper than BitPay - Options Abound!](https://www.youtube.com/watch?v=0abH-Vdza4c) - Decentralized TV
 
 ## Conferences and meetups
+
+* 2020/Sep/08 - [Britt Kelly - BTCPay For Anyone, Not Everyone - BitBlockBoom](https://youtu.be/koCujSoudAg) - BitBlockBoom
 * 2020/Jun/26 - [Bitcoin for Business: A Free Kraken Webinar w/ Pierre Rochard and guests](https://youtu.be/QBlH0EsOs4s) - Kraken
 * 2020 May/11 - [Celebrating the Third Bitcoin Halving: BTC Pay Server Hour](https://youtu.be/XcAQdvskhPA) - Bitcoin Magazine
 * 2020/Mar/21 - [BTCPay - Not Just a Payment Processor - Brit Kelly VR presentation](https://youtu.be/1gQLrrULhGY)
