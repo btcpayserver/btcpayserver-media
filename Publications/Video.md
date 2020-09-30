@@ -2,6 +2,9 @@ This page contains chronologically sorted videos featuring BTCPay developers on 
 
 ## Interviews
 
+* 2020/Sep/29 - [BTCPay use cases? Part 3/3 and conclusion of our interview with BTCPay Server's Kukks and Pavlenex](https://youtu.be/VWIMIeEc55s) - OKCoin
+* 2020/Sep/29 - [How to use BTCPay Server? Interview pt. 2/3 by OKCoin's Elaine Song with BTCPay's Kukks and Pavlenex](https://youtu.be/jJzfYBPUgJk) - OKCoin
+* 2020/Sep/28 - [What is BTCPay Server? An Interview with OKCoin's Elaine Song and BTCPay Server's Kukks and Pavlenex](https://youtu.be/Pqbd6cszZZA) - OKCoin
 * 2020/Sep/15 - [Building on top of BTC Pay Server #TechnicalTuesday Bitcoin Magazine](https://www.youtube.com/watch?v=koCujSoudAg)
 * 2020/Apr/25 - [TotalBitcoin #94: Nicolas Dorier - Bitcoin´s Mass Adoption by Merchants with BtcPayServer?](https://youtu.be/YPLOnyRzjXc)
 * 2020/May/10 - [SLP172 Nicolas Dorier & Kukks - P2EP Comes To BTCPay Server](https://youtu.be/Sd_0Ybqz6B0)
