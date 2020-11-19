@@ -2,6 +2,7 @@ This page contains chronologically sorted videos featuring BTCPay developers on 
 
 ## Interviews
 
+* 2020/Nov/19 - [The Merits of Integrating Bitcoin Payments with Namecheap (Hillan Klien) & BTCPay Server (R0ckstardev)](https://www.youtube.com/watch?v=tClWPpPF1ao&feature=youtu.be) - Matt Odel from Bitcoin Magazine & TFTC
 * 2020/Sep/29 - [BTCPay use cases? Part 3/3 and conclusion of our interview with BTCPay Server's Kukks and Pavlenex](https://youtu.be/VWIMIeEc55s) - OKCoin
 * 2020/Sep/29 - [How to use BTCPay Server? Interview pt. 2/3 by OKCoin's Elaine Song with BTCPay's Kukks and Pavlenex](https://youtu.be/jJzfYBPUgJk) - OKCoin
 * 2020/Sep/28 - [What is BTCPay Server? An Interview with OKCoin's Elaine Song and BTCPay Server's Kukks and Pavlenex](https://youtu.be/Pqbd6cszZZA) - OKCoin
