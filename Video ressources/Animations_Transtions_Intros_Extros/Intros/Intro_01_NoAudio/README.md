@@ -36,7 +36,7 @@ Video Codec: WEBM / VP9
 
 Audio Codec: No audio
 
-
+Transition point: Before frame 240 (4 secondes)
 
 
 
