@@ -1,5 +1,6 @@
 This list contains podcasts pertaining to BTCPay.
 
+* 2021/Jan/24 - [Block03 - Code- Nicolas Dorier](https://21ism.com/portfolio-item/nicolas-dorier/) - 21ism
 * 2021/Jan/05 - [Block Digest Special Edition - Dennis and Mr Kukks (LN Bank/BTCPay)](https://castbox.fm/episode/Block-Digest-Special-Edition---Dennis-and-Mr-Kukks-(LN-BankBTCPay)-id1192324-id342417712) - Block Digest
 * 2020/Dec/10 - [#089 Nicolas Dorier: Be your own bank with BTCPay](https://youtu.be/8GkbkNKBEl4) - Anita Posch
 * 2020/Jun/24 - [Bitcoin is Not for Everybody, it’s for Anybody -Brittttt and Pavlenex](https://blog.okcoin.com/2020/06/23/ok-lets-chat-btcpay) - OK Let’s Chat
