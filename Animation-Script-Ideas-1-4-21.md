@@ -1,6 +1,6 @@
 Scene 1: Apartment
 Characters: Father & Daughter
-Character Animation Bubbles: "People have bread. We make bread. Why does it have to be this hard?"
+Character Animation Bubbles: "People want bread. We make bread. Why does it have to be this hard?"
 
 Narration: 
 When two parties transact between one another, it's called a payment. 
