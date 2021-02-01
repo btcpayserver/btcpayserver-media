@@ -79,10 +79,10 @@ _Characters:_ Father & Daughter
 `CHARACTER ANIMATION SPEECH BUBBLES`
 
 **BAKER:**
-**"People want bread. We make bread. Why does it have to be this hard?"
+> "People want bread. We make bread. Why does it have to be this hard?"
 
 **Narrator:** 
-"When two parties transact between one another, it's called a payment. 
+> "When two parties transact between one another, it's called a payment. 
 As simple as that sounds, these days it can be pretty complicated.
 Third parties and middleman are often times, far too involved in something simple like a baker selling his bread to people who need food."
 
