@@ -20,7 +20,7 @@ For readability, please use the following formatting as an example:
 
 ----
 
-**General scene context and information should be Left hand sided with italics seperating each info:**
+**General scene context and information should be with italics:**
 
 _Scene location:_ Appartement
 
@@ -30,33 +30,41 @@ _Context:_ Characters are opening a shop in new neighbourhood
 
 ----
 
-**Character names AND narrator title should be centered and capitalized:**
-<p style="text-align: center;"> JOHN DOW:</p>
-"Hi Jane, how you doin' ?"
-<p style="text-align: center;"> JANE DOW:</p>
-"Hi John, i'm fine, how about you ?"
-<p style="text-align: center;"> NARRATOR:</p>
-<p>"Narrator comments on a scene with a witty line."</p>
+**Character names AND narrator title should be bold and speech should be quoted:**
 
-Code to use:
+**John Dow:**
 
-`<p style="text-align: center;"> JOHN DOW</p>`
+> "Hi Jane, how you doin' ?"
+
+**Jane Dow:**
+
+> "Hi John, i'm fine, how about you ?"
+
+**Narrator:**
+
+> "Narrator comments on a scene with a witty line."
+
+Code used: 
+
+` > Your text `
 
 ----
 
-**Animation and video editing specific inputs should be Right hand sided:**
-<p style="text-align: right;"> CHARACTERS SPEAK USING SPEECH BUBBLES</p>
-<p style="text-align: right;"> FADE OUT</p>
+**Animation and video editing specific inputs should be "coded" AND capitalized:**
 
-Code to use:
+`CHARACTERS SPEAK USING SPEECH BUBBLES`
 
-`<p style="text-align: right;"> FADE OUT</p>`
+`FADE OUT`
+
+Code used: 
+
+Special character ` before and after text wanted to be coded.
 
 ----
 
 ## Intro
 
-Intro: Work in Progress.
+_Intro:_ Work in Progress.
 
 ----
 
@@ -68,12 +76,12 @@ _Scene location:_ Apartment
 
 _Characters:_ Father & Daughter
 
-<p style="text-align: right;"> CHARACTER ANIMATION SPEECH BUBBLES</p> 
-<p style="text-align: center;">BAKER:</p>
-"People want bread. We make bread. Why does it have to be this hard?"
+`CHARACTER ANIMATION SPEECH BUBBLES`
 
+**BAKER:**
+**"People want bread. We make bread. Why does it have to be this hard?"
 
-<p style="text-align: center;">NARRATOR:</p> 
+**Narrator:** 
 "When two parties transact between one another, it's called a payment. 
 As simple as that sounds, these days it can be pretty complicated.
 Third parties and middleman are often times, far too involved in something simple like a baker selling his bread to people who need food."
@@ -88,10 +96,14 @@ _Scene location:_ Market
 _Characters:_ Father & Daughter
 
 _Context:_ Closing old shop
-<p style="text-align: right;">CHARACTER ANIMATION SPEECH BUBBLES</p>
-"It's just different. Times are changing. Everything will be fine."
-<p style="text-align: center;">NARRATOR:</p>
-"Opening a store or online business has become daunting for some.
+
+`CHARACTER ANIMATION SPEECH BUBBLES`
+
+**Daughter:**
+> "It's just different. Times are changing. Everything will be fine."
+
+**Narrator:**
+> "Opening a store or online business has become daunting for some.
 Others open a business and spent lots of time buried in paperwork, unnecessesry forms and fees for simply doing what they love."
 
 ----
@@ -104,23 +116,26 @@ _Characters:_ Father & Daughter
 
 _Context:_ Opening new shop
 
-<p style="text-align: right;">CHARACTER ANIMATION SPEECH BUBBLES</p> 
-"People are in and out so quicky. Payments are already in our Bitcoin wallet"
-<p style="text-align: center;">NARRATOR:</p>
-BTCPay is an entire payments platform, helping people achieve financial self-soverignty.
+`CHARACTER ANIMATION SPEECH BUBBLES`
+
+**Daughter:**
+> "People are in and out so quicky. Payments are already in our Bitcoin wallet"
+
+**Narrator:**
+> "BTCPay is an entire payments platform, helping people achieve financial self-soverignty.
 ... BTCPay description ...
-In the digital world anyone can carry their own bank, in their pocket. View accounting and invoices.
+In the digital world anyone can carry their own bank, in their pocket. View accounting and invoices."
 
 ----
 ### Scene 3
 
 _Scene:_ Transforming color (grey to green)
 
-<p style="text-align: center;">NARRATOR:</p>
-BTCPay is more than just a payment platform..
+**Narrator:**
+> BTCPay is more than just a payment platform.
 It's transforming digital payments as fast as the world around us.
 
 ----
 ## Extro
 
-Extro: Work In Progress
+_Extro:_ Work In Progress
