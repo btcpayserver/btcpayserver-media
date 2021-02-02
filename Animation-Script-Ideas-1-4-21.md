@@ -84,7 +84,7 @@ _Scene:_
 **Narrator:**
 > As simple as that sounds, these days it can be pretty complicated.
 
-Starts with the Baker appearing at his desk, huntched over his laptop, visibly irritated.
+Starts with the Baker appearing at his desk, huntched over his laptop, visibly irritated. Laptop sceen says "Account locked".
 
 `CHARACTER SPEECH BUBBLES - BAKER EMOJI "FECES"`
 
@@ -164,9 +164,6 @@ Baker and Daughter are stunned by the amount of activity in the surroundings.
 
 `CHARACTER SPEECH BUBBLES - BAKER & DAUGHTER EMOJI OPEN-MOUTH`
 
-**Daughter:**
-> "People are in and out so quicky. Payments are already in our Bitcoin wallet"
-
 **Narrator:**
 > "BTCPay is an entire payments platform, helping people achieve financial self-soverignty.
 ... BTCPay description ...
@@ -175,13 +172,24 @@ In the digital world anyone can carry their own bank in their pocket. View accou
 ----
 ### Scene 3
 
-_Scene:_ Transforming color (grey to green)
+_Scene location:_ Train station + Train
 
-**Narrator:**
-> BTCPay is more than just a payment platform.
-It's transforming digital payments as fast as the world around us.
+_Characters:_
+* Baker: Unchanged.
+* Baker's Daughter: Unchanged.
+
+_Scene:_ 
+The scene takes place in the BTCPay hype train.
+Baker and Daughter are sitting in the train.
+Transforming color (grey to green) from the passing train.
+
+`SHOT COMES OUT OF TRAIN, WIDENS TO FINALY PRESENT THE BTCPAY CITY IN WHOLE IN EXTRO`
 
 ----
 ## Extro
 
 _Extro:_ Work In Progress
+
+**Narrator:**
+> BTCPay is more than just a payment platform.
+It's transforming digital payments as fast as the world around us.
