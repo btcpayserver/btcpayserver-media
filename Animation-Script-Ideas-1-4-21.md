@@ -24,7 +24,7 @@ For readability, please use the following formatting as an example:
 
 _Scene location:_ Appartement
 
-_Characters:_ Father & Daughter
+_Characters:_ Father & Daughter (be precise)
 
 _Context:_ Characters are opening a shop in new neighbourhood
 
@@ -35,10 +35,6 @@ _Context:_ Characters are opening a shop in new neighbourhood
 **John Dow:**
 
 > "Hi Jane, how you doin' ?"
-
-**Jane Dow:**
-
-> "Hi John, i'm fine, how about you ?"
 
 **Narrator:**
 
@@ -74,37 +70,78 @@ _Intro:_ Work in Progress.
 
 _Scene location:_ Apartment
 
-_Characters:_ Father & Daughter
+_Characters:_ 
+* Baker: 50+ aged male, slightly fattened but muscular, thanks to his career as Baker. 3-5 day untended beard.
+* Baker's Daughter: 20-30 aged female.
 
-`CHARACTER ANIMATION SPEECH BUBBLES`
-
-**BAKER:**
-> "People want bread. We make bread. Why does it have to be this hard?"
+_Scene:_ 
 
 **Narrator:** 
 > "When two parties transact between one another, it's called a payment. 
-As simple as that sounds, these days it can be pretty complicated.
-Third parties and middleman are often times, far too involved in something simple like a baker selling his bread to people who need food."
+
+`CAMERA CLOSE-UP FROM INTRO`
+
+**Narrator:**
+> As simple as that sounds, these days it can be pretty complicated.
+
+Starts with the Baker appearing at his desk, huntched over his laptop, visibly irritated.
+
+`CHARACTER SPEECH BUBBLES - BAKER EMOJI "FECES"`
+
+Through the apparteent window can be seen a green light pulse emitting in the far distance.
+
+Baker's daughter appears at the door and moves towards the baker to console him.
+
+**Narrator:** 
+> Third parties and middlemen are often times, far too involved in something simple like a baker selling his bread to people who need food."
+
+`FADE OUT`
 
 ----
 
 ## Chapter 2
 ### Scene 1
 
-_Scene location:_ Market
+`FADE IN`
 
-_Characters:_ Father & Daughter
+`NEXT DAY`
 
-_Context:_ Closing old shop
+_Scene location:_ Bakery
 
-`CHARACTER ANIMATION SPEECH BUBBLES`
+_Characters:_ 
 
-**Daughter:**
-> "It's just different. Times are changing. Everything will be fine."
+* Baker: Cloth change. Otherwise unchanged.
+* Baker's daughter: Cloth change. Otherwise unchanged.
+
+_Scene:_ 
+
+Closing old bakery shop.
+
+`FADE IN`
+
+`CAMERA BAKERY PORCH`
+
+On the front window can be seen "Out-of-business sale !".
+
+`CAMERA CLOSE-UP FROM BAKERY PORCH TO INTERIOR`
+
+On front desk, windows and bakery shelves can be seen "Sale".
 
 **Narrator:**
 > "Opening a store or online business has become daunting for some.
-Others open a business and spent lots of time buried in paperwork, unnecessesry forms and fees for simply doing what they love."
+
+Baker is tending to a last customer, while baker's daughter is packing boxes.
+
+`CHARACTER SPEECH BUBBLES - BAKER EMOJI HEART`
+
+`CHARACTER SPEECH BUBBLES - CUSTOMER EMOJI SMILE`
+
+`CHARACTER SPEECH BUBBLES - DAUGHTER EMOJI SWEAT`
+
+**Narrator:**
+> Others open a business and spend lots of time buried in paperwork, unnecessesry forms and fees for simply doing what they love."
+
+`FADE OUT`
 
 ----
 
@@ -112,11 +149,20 @@ Others open a business and spent lots of time buried in paperwork, unnecessesry 
 
 _Scene location:_ Market
 
-_Characters:_ Father & Daughter
+_Characters:_
 
-_Context:_ Opening new shop
+* Baker: Cloth change. Shaved. Otherwise unchanged.
+* Baker's daughter: Cloth change. Otherwise unchanged.
 
-`CHARACTER ANIMATION SPEECH BUBBLES`
+_Scene:_ 
+
+Opening new bakery shop in new neighborhood.
+
+Market in proximity of new bakery is packed with customers shopping and using BTCPay.
+
+Baker and Daughter are stunned by the amount of activity in the surroundings.
+
+`CHARACTER SPEECH BUBBLES - BAKER & DAUGHTER EMOJI OPEN-MOUTH`
 
 **Daughter:**
 > "People are in and out so quicky. Payments are already in our Bitcoin wallet"
@@ -124,7 +170,7 @@ _Context:_ Opening new shop
 **Narrator:**
 > "BTCPay is an entire payments platform, helping people achieve financial self-soverignty.
 ... BTCPay description ...
-In the digital world anyone can carry their own bank, in their pocket. View accounting and invoices."
+In the digital world anyone can carry their own bank in their pocket. View accounting and invoices."
 
 ----
 ### Scene 3
