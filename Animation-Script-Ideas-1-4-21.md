@@ -132,11 +132,6 @@ On front desk, windows and bakery shelves can be seen "Sale".
 
 Baker is tending to a last customer, while baker's daughter is packing boxes.
 
-`CHARACTER SPEECH BUBBLES - BAKER EMOJI HEART`
-
-`CHARACTER SPEECH BUBBLES - CUSTOMER EMOJI SMILE`
-
-`CHARACTER SPEECH BUBBLES - DAUGHTER EMOJI SWEAT`
 
 **Narrator:**
 > Others open a business and spend lots of time buried in paperwork, unnecessesry forms and fees for simply doing what they love."
@@ -162,12 +157,10 @@ Market in proximity of new bakery is packed with customers shopping and using BT
 
 Baker and Daughter are stunned by the amount of activity in the surroundings.
 
-`CHARACTER SPEECH BUBBLES - BAKER & DAUGHTER EMOJI OPEN-MOUTH`
 
 **Narrator:**
 > "BTCPay is an entire payments platform, helping people achieve financial self-soverignty.
-... BTCPay description ...
-In the digital world anyone can carry their own bank in their pocket. View accounting and invoices."
+... BTCPay description ..."
 
 ----
 ### Scene 3
@@ -180,8 +173,15 @@ _Characters:_
 
 _Scene:_ 
 The scene takes place in the BTCPay hype train.
-Baker and Daughter are sitting in the train.
+Inside the train, shooting from the other side of the train, opposite benches. 
+Baker and Daughter are sitting in the train. Daughter looking at computer, then looks up.
+Baker is looking at laptop too.
+
+Shot goes out.
 Transforming color (grey to green) from the passing train.
+
+**Narrator:**
+> "In the digital world anyone can carry their own bank in their pocket. View accounting and invoices."
 
 `SHOT COMES OUT OF TRAIN, WIDENS TO FINALY PRESENT THE BTCPAY CITY IN WHOLE IN EXTRO`
 
